@@ -1,1 +1,1 @@
-# git_training
+Git task # 2

@@ -1,12 +1,10 @@
-row1
-row2
-row3
-row4
-row5
-row6
-row7
-row8
-row9 updated git2
-row10 updated git2
-row9 git1 step5
-row10 git1 step5
+line1 step7
+line2 step7
+line3 step8
+line4 step8
+line5
+line6
+line7
+line8
+line9
+line10
