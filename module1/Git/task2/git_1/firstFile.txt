@@ -1,0 +1,17 @@
+row1 step 20
+row2 step 20
+row3
+row4
+<<<<<<< Updated upstream
+row5
+row6
+row7 step 18
+row8 step 18
+=======
+row5 step 19
+row6 step 19
+row7
+row8
+>>>>>>> Stashed changes
+row9 git1 step5
+row10 git1 step5
